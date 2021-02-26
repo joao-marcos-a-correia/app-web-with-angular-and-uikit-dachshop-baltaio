@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "petshop"
+  "defaultProject": "petshop",
+  "cli": {
+    "analytics": "2060dd60-5644-4448-960e-559328d6d6d0"
+  }
 }
